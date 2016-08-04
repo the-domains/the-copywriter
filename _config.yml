@@ -11,6 +11,10 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.8546755735296756
+author:
+  name: Quentin Pain
+  email: quentin.pain@gmail.com
+  url: 'http://quentinpain.com'
 name: The Copywriter
 title: Every Word
 description: Matters
