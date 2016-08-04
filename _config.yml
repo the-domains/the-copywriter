@@ -1,4 +1,3 @@
-layout_spectrum: 0.8546755735296756
 typography_spectrum: 0.006319105625152588
 color:
   brandStrength: 0.1331565175205469
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.8546755735296756
 name: The Copywriter
 title: Every Word
+description: Matters
